@@ -1119,19 +1119,19 @@ a:hover {
 	}
 	.header .swiper-wrapper .swiper-slide1 {
 		background-size: cover;
-		background-image: url('/images/carousel1.jpg');
+		background-image: url('../images/carousel1.jpg');
 	}
 	.header .swiper-wrapper .swiper-slide2 {
-		background-image: url('/images/carousel2.jpg');
+		background-image: url('../images/carousel2.jpg');
 	}
 	.header .swiper-wrapper .swiper-slide3 {
-		background-image: url('/images/carousel3.jpg');
+		background-image: url('../images/carousel3.jpg');
 	}
 	.header .swiper-wrapper .swiper-slide4 {
-		background-image: url('/images/carousel4.jpg');
+		background-image: url('../images/carousel4.jpg');
 	}
 	.header .swiper-wrapper .swiper-slide5 {
-		background-image: url('/images/carousel5.jpg');
+		background-image: url('../images/carousel5.jpg');
 	}
 	/* end of header */
 
