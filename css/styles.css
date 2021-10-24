@@ -417,7 +417,6 @@ a:hover {
 	height: 1px;
 	margin: 0.5rem auto 0.5rem auto;
 	border: none;
-	background-color: ;
 }
 /* end of dropdown menu */
 
@@ -929,14 +928,6 @@ a:hover {
 	text-decoration: none;
 }
 
-.footer .footer-col {
-	/* margin-bottom: 1rem; */
-}
-
-.footer .footer-col.second {
-	/* margin-top: 1rem; */
-}
-
 .footer h6 {
 	margin-bottom: 0.625rem;
 	color: #6d717a;
@@ -1292,9 +1283,6 @@ a:hover {
 		margin-right: 0.5rem;
 	}
 
-	.header .swiper-container{
-		/* margin: 0rem 1rem; */
-	}
 	.header .swiper-container{
 		max-width: 960px;
 		
